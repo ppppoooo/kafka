@@ -17,7 +17,7 @@ import java.time.Duration;
 import java.util.Arrays;
 
 /**
- * @Author mengxiangzhi
+ *
  * @CreatTime 2019/7/10
  **/
 @RestController

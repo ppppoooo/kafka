@@ -4,7 +4,7 @@ import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author mengxiangzhi
+ *
  * @CreatTime 2019/7/15
  * <p>
  * 自动消费
